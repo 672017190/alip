@@ -54,10 +54,6 @@ function draw() {
 
 
 
-
-
-
-
   //fill(255);
   //noStroke();
   //text(hr + ':' + mn + ':' + sc, 10, 200);
