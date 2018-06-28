@@ -20,15 +20,4 @@ function draw() {
   torus(100, 10);
 
   angle +=0.07;
-
-  
-
- 
-
-
-
-
-
-
-
 }
